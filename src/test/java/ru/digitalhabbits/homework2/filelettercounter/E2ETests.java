@@ -1,4 +1,4 @@
-package ru.digitalhabbits.homework2;
+package ru.digitalhabbits.homework2.filelettercounter;
 
 import static com.google.common.io.Resources.getResource;
 import static org.assertj.core.api.Assertions.assertThat;
@@ -8,8 +8,6 @@ import org.junit.jupiter.api.Test;
 
 import java.io.File;
 import java.util.Map;
-
-import ru.digitalhabbits.homework2.impl.AsyncFileLetterCounter;
 
 public class E2ETests {
 
